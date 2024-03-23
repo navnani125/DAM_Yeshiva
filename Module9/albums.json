@@ -1,0 +1,38 @@
+[
+  {
+    "Album Title": "Up All Night",
+    "Artist": "One Direction",
+    "Songs": [
+      "What Makes You Beautiful",
+      "Gotta Be You",
+      "One Thing",
+      "More than This",
+      "Up All Night"
+    ],
+    "Release Year": 2011
+  },
+  {
+    "Album Title": "Memories... Do Not Open",
+    "Artist": "The Chainsmokers",
+    "Songs": [
+      "The One",
+      "Break Up Every Night",
+      "Bloodstream",
+      "Don't Say",
+      "Something Just Like This (with Coldplay)"
+    ],
+    "Release Year": 2017
+  },
+  {
+    "Album Title": "Red Pill Blues",
+    "Artist": "Maroon 5",
+    "Songs": [
+      "What Lovers Do (feat. SZA)",
+      "Cold (feat. Future)",
+      "Lips On You",
+      "Girls Like You (feat. Cardi B)",
+      "Closure"
+    ],
+    "Release Year": 2017
+  }
+]
